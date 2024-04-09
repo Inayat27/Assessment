@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer utilities {
+    .shadow-right-bottom {
+      box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.2); /* Adjust the values as needed */
+    }
+
+}
